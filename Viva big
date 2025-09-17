@@ -1,0 +1,91 @@
+1. Use of Tableau – Tableau is used for data visualization and business intelligence to analyze and present data interactively.
+
+
+2. Tableau Versions – Common versions include Tableau Desktop, Tableau Server, Tableau Online, Tableau Public, Tableau Reader.
+
+
+3. How to connect dataset – By using the “Connect” pane to link databases, files, or servers.
+
+
+4. Connect Pane – Displays available data connection options like Excel, SQL, etc.
+
+
+5. Data Source Page – Provides a view to manage connections, preview data, and apply joins/filters.
+
+
+6. Joins – Combine data from multiple tables based on a common field.
+
+
+7. Dashboard/Worksheet/Story Use – Worksheet builds views, Dashboard combines them, Story presents insights in sequence.
+
+
+8. Categorical/Numerical Columns – Categorical are dimensions (discrete), numerical are measures (continuous).
+
+
+9. Dimension/Measure – Dimensions are qualitative fields, measures are quantitative fields.
+
+
+10. Visualization Charts Use – Used to represent data visually (bar, line, map, etc.) for insights.
+
+
+11. Dashboard Show Me Use – Suggests suitable charts based on selected fields.
+
+
+12. Data Pane – Contains fields (dimensions/measures) available for visualization.
+
+
+13. Analytics Pane – Provides features like trendlines, forecasts, reference lines, etc.
+
+
+14. Marks Card – Controls how data is displayed using color, size, shape, label, tooltip, etc.
+
+
+15. Color/Text/Tooltip/Size/Detail Use – Enhance data visualization by encoding information into marks.
+
+
+16. Filters Use – Limit the data shown in a view.
+
+
+17. Column Shelf/Row Shelf Use – Place fields to define chart structure (X and Y axis).
+
+
+18. Create Alias/Hierarchy/Calculated Field – Aliases rename values, hierarchies group fields, calculated fields create new metrics.
+
+
+19. Aggregate Functions Use – Summarize data (SUM, AVG, COUNT, etc.).
+
+
+20. Text Functions/Logical Functions – Text functions manipulate strings, logical functions evaluate conditions (IF, CASE).
+
+
+21. What are Maps – Visual representations of data with geographical context.
+
+
+22. Map Types – Symbol maps, filled maps, density maps, and custom map layers.
+
+
+23. Add Pie Chart in Map – Use dual-axis map combining location with pie chart marks.
+
+
+24. Add Map Layer – Enable layers in the map options (background, streets, population, etc.).
+
+
+25. Clusters – Group similar data points using Tableau’s clustering feature.
+
+
+26. Perform Forecasting – Drag forecast option from analytics pane to the view.
+
+
+27. Add Trendline – Drag trendline from analytics pane to the visualization.
+
+
+28. Set Dashboard Height & Width – Adjust in the dashboard size settings.
+
+
+29. Table Calculation – Calculation performed on aggregated results (e.g., running total, percent of total).
+
+
+30. Different Table Calculations – Running total, moving average, percent difference, rank, etc.
+
+
+31. Data Visualization – The graphical representation of data to identify patterns and insights.
